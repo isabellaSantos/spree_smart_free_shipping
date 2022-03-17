@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.description = 'Free shipping for selected shipping methods'
   s.required_ruby_version = '>= 1.9.3'
 
-  s.author    = 'Bryan Mahoney'
-  s.email     = 'bryan@godynamo.com'
-  s.homepage  = 'http://www.godynamo.com'
+  s.author    = 'Fork from: Bryan Mahoney'
+  s.email     = ''
+  s.homepage  = 'https://github.com/spree/spree'
 
   # s.files       = `git ls-files`.split("\n")
   # s.test_files  = `git ls-files -- {test,spec,features}/*`.split("\n")
